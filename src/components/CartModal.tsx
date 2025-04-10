@@ -16,7 +16,7 @@ const CartModal = () => {
             {/* ITEM */}
             <div className="flex gap-4">
               <Image
-                src="https://down-vn.img.susercontent.com/file/vn-11134258-7ra0g-m83kl54b6zd309"
+                src="https://images.pexels.com/photos/1021693/pexels-photo-1021693.jpeg?auto=compress&cs=tinysrgb&w=800"
                 alt=""
                 width={72}
                 height={96}
@@ -47,7 +47,7 @@ const CartModal = () => {
               <span className="">$49</span>
             </div>
             <p className="text-gray-500 text-sm mt-2 mb-4">
-              Lorem ipsum dolor sit amet
+              Lorem ipsum dolor sit
             </p>
             <div className="flex justify-between text-sm">
               <button className="rounded-md py-3 px-4 ring-1 ring-gray-300">
